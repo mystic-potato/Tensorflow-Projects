@@ -4,3 +4,5 @@ A collection of projects done using tensorflow.
   Uses a simple neural network to analyze IMDB reviews
 2. Neural Style Transfer:
   Using VGG19
+3. Cats vs Dogs Image classifier without image Augmentation
+  
